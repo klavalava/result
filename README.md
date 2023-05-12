@@ -1,0 +1,2 @@
+# result
+if result:
